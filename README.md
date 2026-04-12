@@ -4,6 +4,12 @@ Trigger Tasker tasks from your Amazfit watch.
 
 WristTrigger lets you configure buttons on your Amazfit smartwatch that fire Tasker tasks on your Android phone. Tap a button on your wrist, and your phone does the rest.
 
+<p align="center">
+  <img src="screenshots/wristtrigger_main_android.png" alt="Android companion app" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/wristtrigger_main_watch.png" alt="Watch app" width="280" />
+</p>
+
 ## How it works
 
 ```
